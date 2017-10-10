@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "218472124839",
+    "firebase_url": "https://webx-52079.firebaseio.com",
+    "project_id": "webx-52079",
+    "storage_bucket": "webx-52079.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218472124839:android:ba8d4db1183fae7b",
+        "android_client_info": {
+          "package_name": "com.ssuet.yousufminhaj.chatapptest2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218472124839-kkpnva00haj42of3495apha6f34je4bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASXDlMDSZEdptZClayyQ5jUIprDbxB9tc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
